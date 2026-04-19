@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ## Running
 
-**Once the dependencies are successfully installed, execute the main script:
+**Once the dependencies are successfully installed, execute the main script:**
 ```bash
 python live_identity.py
 ```
