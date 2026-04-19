@@ -27,10 +27,10 @@ python live_identity.py
 
 ## Interaction Guide:
 
-**1. Silent Mode: When the camera detects no human subjects, the screen remains silent without any UI/bounding boxes.
+**1. Silent Mode: When the camera detects no human subjects, the screen remains silent without any UI/bounding boxes.**
 
-**2. Algorithmic Judgment: Step into the frame. The system will forcefully bisect your torso (Top 15%-50%, Bottom 50%-100%) and assign independent class labels in real-time.
+**2. Algorithmic Judgment: Step into the frame. The system will forcefully bisect your torso (Top 15%-50%, Bottom 50%-100%) and assign independent class labels in real-time.**
 
-**3. Press the q key to quit the installation.
+**3. Press the q key to quit the installation.**
 
 ## Note: The first time you run the script, it may take a few seconds to automatically download the YOLOv8 pre-trained weights (yolov8n.pt).
