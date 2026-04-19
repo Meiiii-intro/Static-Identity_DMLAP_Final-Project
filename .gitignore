@@ -1,0 +1,4 @@
+dataset/
+dataset_standardized/
+yolov8n.pt
+.DS_Store
